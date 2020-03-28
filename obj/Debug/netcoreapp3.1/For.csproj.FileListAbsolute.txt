@@ -1,0 +1,13 @@
+C:\Users\Tolmasbek\Desktop\28_03_2020\For\bin\Debug\netcoreapp3.1\For.exe
+C:\Users\Tolmasbek\Desktop\28_03_2020\For\bin\Debug\netcoreapp3.1\For.deps.json
+C:\Users\Tolmasbek\Desktop\28_03_2020\For\bin\Debug\netcoreapp3.1\For.runtimeconfig.json
+C:\Users\Tolmasbek\Desktop\28_03_2020\For\bin\Debug\netcoreapp3.1\For.runtimeconfig.dev.json
+C:\Users\Tolmasbek\Desktop\28_03_2020\For\bin\Debug\netcoreapp3.1\For.dll
+C:\Users\Tolmasbek\Desktop\28_03_2020\For\bin\Debug\netcoreapp3.1\For.pdb
+C:\Users\Tolmasbek\Desktop\28_03_2020\For\obj\Debug\netcoreapp3.1\For.csprojAssemblyReference.cache
+C:\Users\Tolmasbek\Desktop\28_03_2020\For\obj\Debug\netcoreapp3.1\For.csproj.CoreCompileInputs.cache
+C:\Users\Tolmasbek\Desktop\28_03_2020\For\obj\Debug\netcoreapp3.1\For.AssemblyInfoInputs.cache
+C:\Users\Tolmasbek\Desktop\28_03_2020\For\obj\Debug\netcoreapp3.1\For.AssemblyInfo.cs
+C:\Users\Tolmasbek\Desktop\28_03_2020\For\obj\Debug\netcoreapp3.1\For.dll
+C:\Users\Tolmasbek\Desktop\28_03_2020\For\obj\Debug\netcoreapp3.1\For.pdb
+C:\Users\Tolmasbek\Desktop\28_03_2020\For\obj\Debug\netcoreapp3.1\For.genruntimeconfig.cache
